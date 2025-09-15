@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2024",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Health and Medicine"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "056d1270-1cef-44ed-8439-a2a626081ceb",
+      "d1f991df-5344-505d-ef5a-138bd54d10ef",
+      "c8770a01-218a-412e-ae93-7ebc55057c73",
+      "287bf63e-11da-4f0c-a280-1b7a6fc719b3",
+      "8ba39506-0f17-4f26-a343-c19ce38523ad"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "clinical-data-learning-visualization-and-deployments"
+  },
+  "course_title": "Clinical Data Learning, Visualization, and Deployments",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "(course overview from syllabus pdf)\n\nHST.953 is a course about the practical considerations for operationalizing machine learning in healthcare settings. We begin the course with a focus on robust, private and fair machine learning (ML) using real retrospective healthcare data. We follow this with experiences in visualization (VIS) that target utility and clinical value. Finally, we explore\u00a0  \nthe intermediate \u201cimplementation science\u201d (IMP) tying together how real models might be potentially used through a visual system by practicing clinical staff.\n\n(course overview from Canvas homepage)\n\nHST.953/6.8850 is a course about the practical considerations for operationalizing machine learning in healthcare settings. We will start with a primer on machine learning concepts including but not limited to cross-validation, data leakage, benchmarks, performance metrics, and fairness evaluation. Publicly available high-resolution datasets (not registries) will be leveraged. HST.953/6.8850\u00a0is not intended to teach graduate machine learning or visualization skills to students, and we expect that students will have some working knowledge of both in order to complete homework assignments and the project.",
+  "department_numbers": [
+    "6",
+    "HST"
+  ],
+  "extra_course_numbers": "6.8850",
+  "primary_course_number": "HST.953",
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Readings",
+    "Problem Sets",
+    "Programming Assignments"
+  ],
+  "site_uid": "d6d3b958-070f-4be8-b16b-6a9cce01fb38",
+  "site_short_id": "hst-953-fall-2024",
+  "site_url_path": "courses/hst-953-clinical-data-learning-visualization-and-deployments-fall-2024"
+}
