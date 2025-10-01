@@ -121,7 +121,7 @@ Percentages
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-**Plagiarism:** Student code submissions may be submitted by the instructors to a plagiarism detection tool for a review of similarity and detection of possible plagiarism. Submissions will be used solely for the purpose of detecting similarity, and are not retained indefinitely on the server; typically results are deleted after 14 days but may be removed sooner. For more information on the tool used, refer to [https://theory.stanford.edu/~aiken/moss/](https://theory.stanford.edu/~aiken/moss/).
+**Plagiarism:** Student code submissions may be submitted by the instructors to a plagiarism detection tool for a review of similarity and detection of possible plagiarism. Submissions will be used solely for the purpose of detecting similarity, and are not retained indefinitely on the server; typically results are deleted after 14 days but may be removed sooner. For more information on the tool used, refer to {{% resource_link "463e413a-cf53-49e6-8f9d-e48821c46a2c" "https://theory.stanford.edu/~aiken/moss/" %}}.
 
 ## Projects and Authorship
 
